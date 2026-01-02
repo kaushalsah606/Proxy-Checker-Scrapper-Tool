@@ -78,7 +78,7 @@ This tool is provided for educational and research purposes only. By using this 
 
 ## 👨‍💻 Developer
 
-**Developed by Wanted Soft**
+**Developed by Kaushalsah606**
 
 ## 📄 License
 
