@@ -205,5 +205,9 @@ if (isset($_POST['check'])) {
 }
 ?>
 
+<footer style="text-align: center; margin-top: 40px; padding: 20px; color: #666; font-size: 14px;">
+    Developed by <strong>Kaushal Sah (Wanted Soft)</strong>
+</footer>
+
 </body>
 </html>
